@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # ВСТАВЬ СЮДА НОВЫЙ ТОКЕН (старый уже скомпрометирован — отзови его в BotFather!)
-TOKEN = "9249397175:AAGFAaLC-jHE_QqNR5FuFiMk5P48e4fm-5w"
+TOKEN = "9249397175:AAFrv4tJ13bpJWNa4ZoM5BoFvkCYs8NMFW4"
 bot = telebot.TeleBot(TOKEN, parse_mode="HTML")
 
 # ---------- МЕНЮ КАТЕГОРИЙ (используются и командами, и кнопками) ----------
